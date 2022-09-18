@@ -1,0 +1,20 @@
+id = 8ee4ccba-83dd-4b75-b4e3-c1820eedf9b0
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"909541-4b9a4bf4-eb16-4efc-a065-73766b25e2d6","path":"New Collection.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"OpenAPI3-folder/components/error.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/components/pet.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/components/pets.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/openapi.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/paths/pet.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/paths/pets.yml","metaData":{}}
+
+[relations.apiDefinition.metaData]
