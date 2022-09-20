@@ -4,12 +4,33 @@ id = 8ee4ccba-83dd-4b75-b4e3-c1820eedf9b0
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"909541-216727d3-74a9-40f8-924e-f8633ac23cf3","path":"New Collection Copy 2(1).json","metaData":{}}
+files[] = {"id":"909541-85448a22-fbb3-484c-a28d-88f83bf78905","path":"New Collection Copy 2(2).json","metaData":{}}
+files[] = {"id":"909541-ba7f0a8e-896a-4d4a-a19a-74663715e766","path":"New Collection Copy 2(3).json","metaData":{}}
+files[] = {"id":"909541-9fe8397b-401d-4010-b4ae-b6db33374976","path":"New Collection Copy 2(4).json","metaData":{}}
+files[] = {"id":"909541-c9258976-3a23-42e2-b206-0bbb2c4419a8","path":"New Collection Copy 2.json","metaData":{}}
+files[] = {"id":"909541-f7ef9554-7c95-460e-ab10-45689846e77b","path":"New Collection Copy(1).json","metaData":{}}
+files[] = {"id":"909541-2d24d26c-af94-47b7-9fdb-d892da42a1ac","path":"New Collection Copy(2).json","metaData":{}}
+files[] = {"id":"909541-7682fec6-0bb1-4a74-9f54-83bc307c1f18","path":"New Collection Copy(3).json","metaData":{}}
+files[] = {"id":"909541-2e6c3d9b-a796-4afc-8193-ed6a51d85893","path":"New Collection Copy(4).json","metaData":{}}
+files[] = {"id":"909541-1e25259b-2314-49d3-bc53-c98407e8a3be","path":"New Collection Copy(5).json","metaData":{}}
+files[] = {"id":"909541-8635c4ed-cf71-416b-9d6a-1cbb7d18eaa5","path":"New Collection Copy.json","metaData":{}}
+files[] = {"id":"909541-4b9a4bf4-eb16-4efc-a065-73766b25e2d6","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/components/error.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/components/pet.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/components/pets.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/index.yaml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/openapi.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/paths/pet.yml","metaData":{}}
+files[] = {"path":"OpenAPI3-folder/paths/pets.yml","metaData":{}}
 files[] = {"path":"randomFile.yaml","metaData":{}}
+files[] = {"path":"wwrgerg.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
