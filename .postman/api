@@ -1,4 +1,4 @@
-id = 616e0bdc-e6f5-4fa0-ae6e-9061a0509ea6
+id = 8ee4ccba-83dd-4b75-b4e3-c1820eedf9b0
 
 [relations]
 
@@ -15,13 +15,13 @@ files[] = {"id":"909541-7682fec6-0bb1-4a74-9f54-83bc307c1f18","path":"New Collec
 files[] = {"id":"909541-2e6c3d9b-a796-4afc-8193-ed6a51d85893","path":"New Collection Copy(4).json","metaData":{}}
 files[] = {"id":"909541-1e25259b-2314-49d3-bc53-c98407e8a3be","path":"New Collection Copy(5).json","metaData":{}}
 files[] = {"id":"909541-8635c4ed-cf71-416b-9d6a-1cbb7d18eaa5","path":"New Collection Copy.json","metaData":{}}
-files[] = {"id":"909541-4b9a4bf4-eb16-4efc-a065-73766b25e2d6","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"newnewnew.yaml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/components/error.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/components/pet.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/components/pets.yml","metaData":{}}
@@ -29,5 +29,7 @@ files[] = {"path":"OpenAPI3-folder/index.yaml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/openapi.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/paths/pet.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/paths/pets.yml","metaData":{}}
+files[] = {"path":"randomFile.yaml","metaData":{}}
+files[] = {"path":"wwrgerg.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
