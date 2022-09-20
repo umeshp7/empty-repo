@@ -1,4 +1,4 @@
-id = 616e0bdc-e6f5-4fa0-ae6e-9061a0509ea6
+id = 8ee4ccba-83dd-4b75-b4e3-c1820eedf9b0
 
 [relations]
 
@@ -29,5 +29,7 @@ files[] = {"path":"OpenAPI3-folder/index.yaml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/openapi.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/paths/pet.yml","metaData":{}}
 files[] = {"path":"OpenAPI3-folder/paths/pets.yml","metaData":{}}
+files[] = {"path":"randomFile.yaml","metaData":{}}
+files[] = {"path":"wwrgerg.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
