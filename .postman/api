@@ -1,4 +1,4 @@
-id = 616e0bdc-e6f5-4fa0-ae6e-9061a0509ea6
+id = 0e9313e6-2428-4294-8e5b-19f581cb7b94
 
 [relations]
 
@@ -17,3 +17,4 @@ files[] = {"path":"wwrgerg.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
+rootFiles[] = index.yaml
